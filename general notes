@@ -1,0 +1,68 @@
+LEARNING PYTHON 3 THE HARD WAY
+
+CH 1 - On Process
+
+  Team Process
+    Scrum, Agile, & eXtreme Programming (XP)
+
+    1) Make a list of things to do        Plan
+    2) Do the things on the list          implement
+    3) Confirm they are done correctly    QC / Check
+
+    XP is the most rigid and infringes on personal Process
+
+    Personal Process
+
+    1) Identifies viable ideas to work on
+    2) Gets you started on those ideas to see if they'll work and changes them quickly
+    3) Progressively refines your ideas over numerous work sessions in a way that avoids problems or enables you to recover easily
+    4) Ensure the quality of you implementation of your ideas so that you aren't crushed by the weight of bugs later
+    5) Makes sure you can work with others
+
+    EX -  what you think your process is and what problems you seem to have?
+
+    I have the plunging head first into the problem approach. Learn as much as I can until
+    I can start to solve the low hanging fruit. As I get a sense of scale I understand more
+    how I should plan my work but this can lead to no plan until I'm in the weed. I also
+    can get frozen up if I find I don't know where to begin.
+
+    I have worked on projects over a long time but can become fatigues on long unitasks.
+    I like variety in my work so that went I get stuck I can switch tasks because I'm driven
+    to get things done
+    I tend to make stupid little mistakes
+    Don't really know much about APIs
+    No I don't feel like a fraud but have seen my self as out of place and
+    cause on describing my background for being prejudges as not a techy
+    I wonder if I will ever get to the point of becoming a real programmer
+    No, I find that I can think through a problem into code. Sometimes is can
+    get difficult and I get stuck but the logic makes sense to me
+    No I dont have trouble getting started, though I have trouble finished resources
+    as I dont have a lesson plan and am constantly looking for better Ex
+    No my work environment is not chaotic but can be stressful due to deadlines
+    I can find it hard to look back at what I wrote so Maybe
+    I do have the tendency of being a packrat and pile on the junk until its time to clean up
+
+CH 2 - On Creativity ->  DAILY - Write three random words each day
+
+        - then spend 10min writing a mini essay about the words.
+        Sight, sound, sense of balance, taste, smell. no censorship
+        Just flow
+        - if you come up with other ideas during this process write them down
+        - If you get stuck use a dictionary to find words
+
+  CH 3 - On Quality  -> Reading code backwards and call out characters to spot errors
+
+    The act of remembering what you did makes you think the end product is correct.
+    Changing you perspective can trick your brain into seeing things that were obscured by
+    your perspective and assumptions. Reading code backwards can accomplish this. Painters
+    place pictures in the mirror and/or turn sideways.
+
+  Part II Hack
+
+    Create -> Observe -> Critique -> Repeat
+    Start right away but have a fix time to complete the project say 45min
+    Then right down all the things you did during the project -> even better take a video
+    After the project is completed, take notes on what can be done to eliminate the friction
+    Then erase and start over and record it again
+
+  CH 4 Dealing with command line pg 24

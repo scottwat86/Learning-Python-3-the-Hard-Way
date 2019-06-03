@@ -1,0 +1,35 @@
+EX 1-8
+
+EX 9
+I missed a line of text within a multi line string
+other than that there were no other mistakes
+
+EX 10
+Mispelled persian_cat -> persion_cat
+Nearly missed a line within multi line text but caught it
+
+EX11
+forgot a 't' on input
+
+EX13
+forgot t in script
+added a d to First
+forgot t on import
+
+EX14
+Forgot _name on user_name
+
+EX 17
+forgot a "."
+added m to copy
+
+
+EX18
+forgot " on a string
+used '.' instead of ',' on an input pair
+added extra spaces or indentation that screwed up the def statement
+
+
+EX19
+forgot : on def statement
+forgot ) on print()
