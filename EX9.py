@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 9
+## Exercise 9 - Printing Printing Printing
 
 # Here's some new strange stuff, remember type it exactly.
 

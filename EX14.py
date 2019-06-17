@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 14
+## Exercise 14 - Prompting and Passing
 
 
 from sys import argv

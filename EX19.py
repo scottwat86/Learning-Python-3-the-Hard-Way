@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 19
+## Exercise 19 - Functions and Variables 
 #
 # # Defines a function that takes two var inputs
 # # Prints the var in several strings

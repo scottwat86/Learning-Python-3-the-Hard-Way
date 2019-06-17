@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 23
+## Exercise 23 - Strings Bytes Characters Encodings
 
 """
 encode()

@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 12
+## Exercise 12 - Prompting People
 
 # Prints a string, takes user input and initializes three var of string type
 age = input("How old are you? ")

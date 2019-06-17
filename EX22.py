@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 22
+## Exercise 22 - What Do you Know So Far
 
 # This is a single line comment
 '''

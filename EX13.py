@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 13
+## Exercise 13  - Parameters Unpacking Variables
 
 
 from sys import argv

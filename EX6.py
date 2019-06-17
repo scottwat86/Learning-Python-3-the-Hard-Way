@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 6
+## Exercise 6 - Strings and Text
 
 # Defines types of people variable
 types_of_people = 10

@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 11
+## Exercise 11 - Asking Questions
 
 ## Prints string and leaves a space for the response in input
 print("How old are you?", end=' ')

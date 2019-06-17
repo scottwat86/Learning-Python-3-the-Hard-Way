@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 10
+## Exercise 10 - What Was That
 
 ## iniates string vars with tabs and new lines and \
 tabby_cat = "\tI'm tabbed in."

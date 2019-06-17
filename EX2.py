@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 2
+## Exercise 2 - Hard way is easier
 
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.

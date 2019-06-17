@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 15
+## Exercise 15 - Reading Files
 
 # Imports argv method from sys module
 from sys import argv

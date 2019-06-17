@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 21
+## Exercise 21 - Function Can Return Something
 
 def add(a, b):
     print(f"ADDING {a} + {b}")

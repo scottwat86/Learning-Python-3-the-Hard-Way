@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 8
+## Exercise 8 - Printing, Printing
 
 
 # creates a series of empty "{}" inside a string var

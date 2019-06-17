@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 4
+## Exercise 4 - Variables and Names
 
 # Declares variable names
 # Integer for cars

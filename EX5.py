@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 5
+## Exercise 5 - More Variable and Printing
 
 my_name = 'Zed A. Shaw'
 my_age = 35 # not a lie

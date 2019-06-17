@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 3
+## Exercise 3 - Numbers and math
 
 
 # Prints string

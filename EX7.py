@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 7
+## Exercise 7 - More Printing
 
 # prints string
 print("Mary had a little lamb.")

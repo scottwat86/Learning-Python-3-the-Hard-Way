@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 1
+## Exercise 1 - Good First Program
 
 print("\nHello World!")
 print("Hello Again")

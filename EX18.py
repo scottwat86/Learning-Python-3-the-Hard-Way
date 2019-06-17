@@ -1,6 +1,6 @@
 ## Practice Typing code
 ## Learning Python 3 the Hardway
-## Exercise 18
+## Exercise 18 - Names, Variables, Code Functions
 
 # defines a function that takes in two arguments as
 # this one is like your scripts with argv
